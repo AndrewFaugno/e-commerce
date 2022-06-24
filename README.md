@@ -3,7 +3,7 @@
   ![](https://img.shields.io/badge/License-MIT-blue)
 
   ## Description
-  This project is the routes of a e-commerce store that stores data through mysql of the products, product tags, and categories. The data can be recieved, created, updated, and deleted.
+  This project is the back end of a e-commerce store. It stores data through mysql of the products, product tags, and categories. The data can be recieved, created, updated, and deleted.
 
   ## Table of Contents
   * [Installation](#installation)
