@@ -14,7 +14,8 @@
   * [License](#license)
   
   ## Installation
-  Clone the repo then run `npm i` to install required dependencies. Then run `npm run seed` to insert the example data into the database.
+  Clone the repo then run `npm i` to install required dependencies. Run MySQL then type `source db/schema.sql`, this will create the database which you can then seed with `npm run seed`. <br />
+  See walkthrough video [here](https://drive.google.com/file/d/1NfLhwOCliSkBRo9Qs0TEUOJ48pKlHanJ/view).
   
   ## Usage
   To use this project run `node server` or `npm start`. <br/>
