@@ -17,7 +17,8 @@
   Clone the repo then run `npm i` to install required dependencies. Then run `npm run seed` to insert the example data into the database.
   
   ## Usage
-  To use this project run `node server` or `npm start`.
+  To use this project run `node server` or `npm start`. <br/>
+  See insomnia walkthrough [here](https://drive.google.com/file/d/1p5wCnp6tJX6uSsntita-K17hNXRqQwaT/view).
 
   ## Contribution
   Refer to installation.
